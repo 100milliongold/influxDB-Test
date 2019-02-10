@@ -1,4 +1,4 @@
-package hello;
+package hello.domain;
 
 import java.time.Instant;
 
